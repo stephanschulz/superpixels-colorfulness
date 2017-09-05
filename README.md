@@ -1,4 +1,4 @@
-#Labeling superpixel colorfulness with Openframeworks
+# Labeling superpixel colorfulness with Openframeworks
 
 This example code takes in a live video image and creates pixel clusters based on the <a href="http://ivrl.epfl.ch/research/superpixels">SLIC Superpixel Segmentation</a>.
 
