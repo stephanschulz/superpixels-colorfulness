@@ -7,3 +7,19 @@ I used this ofxAddon <https://github.com/zrispo/ofxSuperpixels> which is a wrapp
 In addition each pixels cluster is evaluated for it's "colorfulness" by implementing part of this code:
 <http://www.pyimagesearch.com/2017/06/26/labeling-superpixel-colorfulness-opencv-python/#comment-428093>
 
+# Dependencies
+
+openframeworks
+http://openframeworks.cc/download/
+
+ofxSuperpixels
+https://github.com/elliotwoods/ofxPolyfit
+
+
+# Operating systems
+It has only been tested on osx 10.10.5 with OF 0.9.8
+
+## Images
+Screen shot:
+
+![](https://superpixels-colorfulness/Screen Shot.png)
