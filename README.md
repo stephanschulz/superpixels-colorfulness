@@ -22,4 +22,4 @@ It has only been tested on osx 10.10.5 with OF 0.9.8
 ## Images
 Screen shot:
 
-![](https://superpixels-colorfulness/Screen Shot.png)
+![](https://superpixels-colorfulness/Screen_Shot.png)
