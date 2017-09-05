@@ -13,7 +13,7 @@ openframeworks
 http://openframeworks.cc/download/
 
 ofxSuperpixels
-https://github.com/elliotwoods/ofxPolyfit
+https://github.com/zrispo/ofxSuperpixels
 
 
 # Operating systems
