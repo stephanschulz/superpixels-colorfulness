@@ -1,9 +1,9 @@
-# ofxSuperpixels via Slic
+#Labeling superpixel colorfulness with Openframeworks
 
-ofx addon for <a href="http://ivrl.epfl.ch/research/superpixels">SLIC Superpixel Segmentation</a>
+This example code takes in a live video image and creates pixel clusters based on the <a href="http://ivrl.epfl.ch/research/superpixels">SLIC Superpixel Segmentation</a>.
 
-Wrapper around <a href="https://github.com/PSMM/SLIC-Superpixels">this code</a>
+I used this ofxAddon <https://github.com/zrispo/ofxSuperpixels> which is a wrapper for <https://github.com/PSMM/SLIC-Superpixels>.
 
-
-#Labeling superpixel colorfulness with OpenCV and Python
+In addition each pixels cluster is evaluated for it's "colorfulness" by inplementing part of this code:
 <http://www.pyimagesearch.com/2017/06/26/labeling-superpixel-colorfulness-opencv-python/#comment-428093>
+
