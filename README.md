@@ -12,10 +12,6 @@ In addition each pixels cluster is evaluated for it's "colorfulness" by implemen
 openframeworks
 http://openframeworks.cc/download/
 
-ofxSuperpixels
-https://github.com/zrispo/ofxSuperpixels
-
-
 # Operating systems
 It has only been tested on osx 10.10.5 with OF 0.9.8
 
